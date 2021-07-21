@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/48448423/126510708-8496054c-f1cc-4df0-8e7e-8208863e7139.png)
+Tesla Web Clone with Animation and Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
